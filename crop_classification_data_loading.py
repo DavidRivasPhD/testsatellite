@@ -18,7 +18,7 @@ import geopandas as gpd
 from radiant_mlhub import get_session
 from radiant_mlhub import Dataset,Collection
 Download labels
-
+d=1
 #get key
 from kaggle_secrets import UserSecretsClient
 user_secrets = UserSecretsClient()
